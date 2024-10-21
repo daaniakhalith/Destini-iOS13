@@ -17,8 +17,8 @@ The app utilizes structured navigation with buttons, labels, and images, impleme
 
 Here’s a quick demo of how the app works:
 
-![App Demo](assets/video.gif)
-![App Demo](assets/video1.gif)
+![App Demo](video.gif)
+![App Demo](video1.gif)
 
 Logic learned from Angela
  Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
